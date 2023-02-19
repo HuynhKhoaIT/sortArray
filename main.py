@@ -8,3 +8,4 @@ arr.sort()
 
 # in kết quả
 print("Mảng sau khi sắp xếp: ", arr)
+#Khoa
